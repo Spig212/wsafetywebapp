@@ -1,3 +1,8 @@
+Developed a Next.js application integrating an email-sending API to alert trusted contacts with
+real-time location during emergencies. Implemented additional safety features including a fake
+call simulator and quick-access SOS functionality, with a responsive frontend for seamless user
+interaction.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
